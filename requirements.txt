@@ -57,7 +57,6 @@ msgpack==1.0.2
 multidict==5.0.0
 paramiko==2.7.2
 passlib==1.7.1
-pgadmin4==4.18
 psutil==5.5.1
 psycopg2-binary==2.8.6
 pyasn1==0.4.8
