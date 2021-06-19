@@ -83,7 +83,6 @@ twilio==6.52.0
 Twisted==20.3.0
 txaio==20.12.1
 typing-extensions==3.7.4.3
-unattended-upgrades==0.1
 urllib3==1.26.2
 uvicorn==0.13.3
 uWSGI==2.0.19.1
@@ -93,6 +92,3 @@ websocket-client==0.56.0
 websockets==8.1
 Werkzeug==1.0.1
 WTForms==2.2.1
-yarl==1.6.2
-zope.event==4.5.0
-zope.interface==5.2.0
