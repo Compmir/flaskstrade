@@ -29,10 +29,10 @@ def main():
  
 @app.route("/trade")
 def trade():
- api = "xkpZpQ2qsaizMQXxv7QcTSV4vp3uH2rpmn6NOqfAzlPzBLzknzoelJEaumXa5W3V"
- secret  = "eGbOEpZWfwP1gkuZatbMLKmd7UUOCgPp58s6Kk4DafYvtyWou6w4khbprur1zmh9"
- k1 = 'uml3OR0pHnXH2daJaUyFx08ek6f1DpOZLHEzBEj4Zod0MDCOyfROnvSZPCEzM'
- k2 = 'Per35fUEd1irKgYTIrlGJwXIVjktQ4Z7wPzdmr1mAppB40Me2oICmH8Wn4312'
+ api = ""
+ secret  = ""
+ k1 = ''
+ k2 = ''
  
  res=[]
  botBinance = Binance(API_KEY=api,API_SECRET=secret)
